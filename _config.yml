@@ -1,0 +1,14 @@
+layout_spectrum: 0.6123116500675678
+typography_spectrum: 0.04309614282101393
+color:
+  brandStrength: 0.09595692553557456
+  lightness: 0.9410588350147009
+  saturation: 0.25340572092682123
+  rhythmicContrast: 0.10975799662992358
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: OMJ
